@@ -10,7 +10,7 @@ class display implements calculate {
 		x = item * item;
 	}
 }
-class interfaces { // public is not must here and is only optional ?
+class interfaces { // public is not must here and is only optional
 	public static void main(String args[]) {
 
 	display arr = new display();// display constructor missing display() in Quiz Q-10 ... compile error
